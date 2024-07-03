@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GT.CSAN.CANDRIVE.Web.External",
   "resources": {
-    "hash": "sha256-WYtvEJ4tjBjbwoOsLepQlLZydd2Fc6SJudfmBkFtf1E=",
+    "hash": "sha256-OOqjUWpaI9ky8ad+TTaGLz4udWMAVTiLyMl+hOFl+Ek=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.39ghj8h57j.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -21,7 +21,7 @@
       "AutoMapper.wasm": "sha256-ZQSB98bRoMRi9VGnS4rbVaTRPwmPIYrY1BBPbc2h38g=",
       "Bogus.wasm": "sha256-YwVwZX6tWOwf8aZv2Qsc7rdM4dHWMvaodaUbJQDKdME=",
       "GT.CSAN.CANDRIVE.Shared.wasm": "sha256-dOb+02pYiC4UW66xfAeAZOAwgN7/ID1Eft84ie7T2ko=",
-      "GT.CSAN.CANDRIVE.Web.External.wasm": "sha256-dV8vvn6LzzqCN6sApQSjj0y+5TC7/bZ4uCgJFhGH6Ug=",
+      "GT.CSAN.CANDRIVE.Web.External.wasm": "sha256-XyMxeZvTLgK0dEVfT/x/bqSDHMQVGjhyMdVC6AeAxc8=",
       "MediatR.Contracts.wasm": "sha256-/db+nahzjeSd5EhxUqFrpFzJ998Up6Vgs1PHrV3jqkU=",
       "MediatR.wasm": "sha256-KqgywL6xIcgC5AnQi0LIu0medVIEtgXt/2jXEeuJgko=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-2Wr9NWu9FkhNNdgiGiz3MAXavSipsT4f9tSECc7F/aI=",
